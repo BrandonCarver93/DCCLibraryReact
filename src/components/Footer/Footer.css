@@ -1,8 +1,10 @@
 .footer {
-    background-color: grey;
+    background-color: lightblue;
     width: 100%;
-    position: absolute;
+    position: fixed;
     bottom: 0;
+    flex: auto;
+
 
 }
 
@@ -10,4 +12,5 @@ p {
     padding-bottom: 0.2em;
     padding-left: 8em;
     text-align: left;
+    margin-top: 2em;
 }
